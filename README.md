@@ -1,10 +1,10 @@
 ### Hi there, I'm Daniel Heydari  👋
 
 ## I'm a Junior Full Stack Javascript Developer!
-- 🌱 I’m currently learning everything 🤣.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: playing board games, and spending time with family.
+- 🌱  I’m currently learning everything 🤣.
+- 👯  I’m looking to collaborate with other content creators.
+- 🥅  2020 Goals: Contribute more to Open Source projects.
+- ⚡  Fun fact: playing board games, and spending time with family.
 
 ### Connect with me:
 
