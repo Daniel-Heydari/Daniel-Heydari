@@ -43,5 +43,5 @@
 
 [website]: https://daniel-heydari.netlify.app
 [Whatsapp]: http://api.whatsapp.com/send?phone=34685886880
-[instagram]: https://www.instagram.com/daniel.heydari
+[instagram]: https://www.instagram.com/dani_dev_coder
 [linkedin]: https://www.linkedin.com/in/danielheydari
